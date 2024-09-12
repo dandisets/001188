@@ -45,6 +45,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-09-04T12:36:49.925287+00:00'
+datePublished: '2024-09-12T19:25:40.635679+00:00'
 description: "Data from \"A combinatorial neural code for long-term motor memory.\"
   Jae-Hyun Kim, Kayvon Daie, Nuo Li. Nature 2024\n\nLongitudinal calcium imaging of
   anterior lateral motor cortex in the mouse across multiple tasks, in which mice
@@ -58,6 +59,18 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001188/versions/draft/assets/
 name: A combinatorial neural code for long-term motor memory.
+publishedBy:
+  endDate: '2024-09-12T19:25:40.635679+00:00'
+  id: urn:uuid:9fcfe0b4-9c24-45df-92c0-42808942e6c8
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-09-12T19:25:40.635679+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f40fba0b-c6bb-4f20-95b4-7a09f72d9233
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
