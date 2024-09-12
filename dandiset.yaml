@@ -35,7 +35,7 @@ assetsSummary:
   - PlaneSegmentation
   - ImagingPlane
 citation: Li, Nuo (2024) A combinatorial neural code for long-term motor memory (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001188/draft
+  0.240912.1925) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001188/0.240912.1925
 contributor:
 - affiliation: []
   email: nuo.li@bcm.edu
@@ -52,12 +52,13 @@ description: "Data from \"A combinatorial neural code for long-term motor memory
   learned to perform directional licking in different task contexts. \n\nThis work
   was funded by the Pew Scholars Program, NIH NS112312, NS113110, NS131229, NS132025,
   McKnight Foundation, and Simons Collaboration on the Global Brain. \n"
-id: DANDI:001188/draft
+doi: 10.48324/dandi.001188/0.240912.1925
+id: DANDI:001188/0.240912.1925
 identifier: DANDI:001188
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001188/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001188/0.240912.1925/assets.yaml
 name: A combinatorial neural code for long-term motor memory.
 publishedBy:
   endDate: '2024-09-12T19:25:40.635679+00:00'
@@ -74,5 +75,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001188/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001188/0.240912.1925
+version: 0.240912.1925
