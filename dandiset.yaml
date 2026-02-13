@@ -36,7 +36,7 @@ assetsSummary:
   - ProcessingModule
   - TwoPhotonSeries
 citation: Li, Nuo (2026) A combinatorial neural code for long-term motor memory (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001188/draft
+  0.260213.1642) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001188/0.260213.1642
 contributor:
 - affiliation: []
   email: nuo.li@bcm.edu
@@ -46,28 +46,29 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-09-04T12:36:49.925287+00:00'
-datePublished: '2025-10-10T20:06:47.578968+00:00'
+datePublished: '2026-02-13T16:42:54.428682+00:00'
 description: "Data from \"A combinatorial neural code for long-term motor memory.\"\
   \ Jae-Hyun Kim, Kayvon Daie, Nuo Li. Nature 2024\n\nLongitudinal calcium imaging
   of anterior lateral motor cortex in the mouse across multiple tasks, in which mice
   learned to perform directional licking in different task contexts. \n\nThis work
   was funded by the Pew Scholars Program, NIH NS112312, NS113110, NS131229, NS132025,
   McKnight Foundation, and Simons Collaboration on the Global Brain. \n"
-id: DANDI:001188/draft
+doi: 10.48324/dandi.001188/0.260213.1642
+id: DANDI:001188/0.260213.1642
 identifier: DANDI:001188
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001188/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001188/0.260213.1642/assets.yaml
 name: A combinatorial neural code for long-term motor memory.
 publishedBy:
-  endDate: '2025-10-10T20:06:47.578968+00:00'
-  id: urn:uuid:0ae5b576-47e6-41f6-b6b8-48f1d27dd453
+  endDate: '2026-02-13T16:42:54.428682+00:00'
+  id: urn:uuid:1c2db2bc-c915-425e-9aaf-a600bfd1a937
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-10-10T20:06:47.578968+00:00'
+  startDate: '2026-02-13T16:42:54.428682+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:c96e8ca8-80b7-446c-8902-28d70eea614a
+  - id: urn:uuid:677e048e-7225-4395-b054-610221f6e377
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -75,5 +76,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001188/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001188/0.260213.1642
+version: 0.260213.1642
