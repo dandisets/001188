@@ -21,9 +21,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: two-photon microscopy technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 17647936403
-  numberOfFiles: 75
-  numberOfSubjects: 5
+  numberOfBytes: 61633166050
+  numberOfFiles: 233
+  numberOfSubjects: 14
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -35,7 +35,7 @@ assetsSummary:
   - ImagingPlane
   - ProcessingModule
   - TwoPhotonSeries
-citation: Li, Nuo (2025) A combinatorial neural code for long-term motor memory (Version
+citation: Li, Nuo (2026) A combinatorial neural code for long-term motor memory (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001188/draft
 contributor:
 - affiliation: []
